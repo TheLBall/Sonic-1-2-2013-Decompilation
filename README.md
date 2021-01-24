@@ -1,5 +1,5 @@
 # Sonic 1/2 2013 Decompilation
-A Full Decompilation of Sonic 1 & 2 (2013)
+A Full Decompilation of Sonic 1 & 2 (2013), but *titlted*
 
 # **SUPPORT THE OFFICIAL RELEASE OF SONIC 1 & SONIC 2**
 + Without assets from the official releases this decompilation will not run.

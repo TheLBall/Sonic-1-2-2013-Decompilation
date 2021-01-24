@@ -79,7 +79,7 @@ typedef unsigned int uint;
 #define DEFAULT_FULLSCREEN   false
 #define SCREEN_YSIZE         (272)
 #else
-#define DEFAULT_SCREEN_XSIZE 424
+#define DEFAULT_SCREEN_XSIZE 519
 #define DEFAULT_FULLSCREEN   false
 #define SCREEN_YSIZE         (240)
 #define RETRO_USING_MOUSE
